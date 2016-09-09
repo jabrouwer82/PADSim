@@ -1,0 +1,2 @@
+class BoardStateException(Exception):
+  pass
